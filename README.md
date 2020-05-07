@@ -1,2 +1,2 @@
 # E-Commerce Project
- Practice on Redux and...
+ From Course Complete React Developer Andrei Neagoie and Zhang M Yihua
